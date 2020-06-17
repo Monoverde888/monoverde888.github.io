@@ -1,1 +1,1 @@
-Si tienes dudas mandale un correo a contacto@monoverde.cl
+Si tienes dudas mandale un correo a [Mi correo](contacto@monoverde.cl)
